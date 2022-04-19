@@ -12,3 +12,4 @@ hello git!
 hello git!   master
 hello git!   hot-fix test 
 test ssh
+test ssh update
